@@ -14,18 +14,14 @@ This project is designed to provide real-time chat functionality and a leaderboa
 
 ## Setup
 
-1. Create a virtual environment using the following command:
 
-   ```
-   python -m venv venv
-   ```
 
-2. Activate the virtual environment:
+. Activate the virtual environment:
 
    - For Windows:
 
      ```
-     venv\Scripts\activate.bat
+     renv\Scripts\activate.bat
      ```
 
    - For macOS and Linux:
@@ -34,7 +30,7 @@ This project is designed to provide real-time chat functionality and a leaderboa
      source venv/bin/activate
      ```
 
-3. Install the required packages by running the following command:
+. Install the required packages by running the following command:
 
    ```
    pip install -r requirements.txt
