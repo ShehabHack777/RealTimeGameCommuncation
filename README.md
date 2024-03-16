@@ -1,4 +1,4 @@
-# MyProject
+# MyProject Real-Time Game Communication and real-time leaderboard by redis
 
 This project is designed to provide real-time chat functionality and a leaderboard service. Follow the steps below to set up and run the project. 🚀
 
