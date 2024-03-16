@@ -56,7 +56,7 @@ This project is designed to provide real-time chat functionality and a leaderboa
 
 3. Additionally, access the following URLs in your web browser:
 
-   - To view the real-time chat running: `http://localhost:8000/chat` (open in Postman). 💬
-   - To view the real-time leaderboard: `http://localhost:8000/top_players/`. 🏆
+   - To view the real-time chat running: `ws://localhost:8000/chat` (open in Postman). 💬
+   - To view the real-time leaderboard: `ws://localhost:8000/ws`. 🏆
 
 That's it! You should now be able to test and explore the real-time chat and leaderboard functionality of the project. Enjoy! 🎉
